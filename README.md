@@ -1,8 +1,14 @@
-# Svelte + Vite
+# To Do List
 
-This template should help get you started developing with Tauri and Svelte in Vite.
+This is a to-do list made in svelte and tauri. This was very fun to make and a great learning experience!
 
-## Recommended IDE Setup
+## Installation
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Make sure you have node.js and npm installed, then:
+
+Navigate to the directory, and run this command:
+
+```
+npm run tauri build
+```
 
